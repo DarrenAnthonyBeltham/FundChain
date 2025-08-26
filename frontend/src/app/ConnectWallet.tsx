@@ -1,4 +1,4 @@
-'use client'; // This is a Next.js directive for client-side components
+'use client'; 
 
 import { useState, useEffect } from 'react';
 import { ethers } from 'ethers';
